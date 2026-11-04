@@ -1,0 +1,6 @@
+{
+  "name": "Kōbō Living — Kitchen, Cleaning & Home Storage",
+  "description": "Full-stack home essentials platform featuring precision kitchen gadgets, ergonomic cleaning tools, and modular home storage systems with AI space consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
